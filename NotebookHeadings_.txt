@@ -1,0 +1,45 @@
+DESCRIPTION
+To determine & analyze factors behind heart attacks. Also, to develop a model for prediction of heart attack.
+SUMMARY
+Task # 1
+Importing, Understanding, and Inspecting Data
+
+Performing preliminary data inspection and report the findings as the structure of the data, missing values, duplicates, etc.
+
+Based on the findings from above, removal of duplicates & treating missing values using an appropriate strategy, if any.
+
+Getting a preliminary statistical summary of the data. Exploring the measures of central tendencies and the spread of the data overall.
+
+Task # 2
+Performing EDA
+
+Identifying the data variables which might be categorical in nature. Describing & exploring these variables using appropriate tools e.g., bar plot.
+
+Studying the occurrence of CVD across different ages.
+
+Can we detect heart attack based on anomalies in resting blood pressure of the patient
+
+Studying the composition of overall patients w.r.t. gender.
+
+Task # 3
+Performing EDA
+
+Describing the relationship between cholesterol levels and our target variable.
+
+What can be concluded about the relationship between peak exercising and occurrence of heart attack
+
+Is thalassemia a major cause of CVD
+
+How are the other factors determining the occurrence of CVD
+
+Using a pair plot to understand the relationship between all the given variables.
+
+Performing logistic regression, predicting the outcome for test data, and validating the results by using the confusion matrix.
+
+Task # 4
+Dashboarding
+
+Visualising the variables using Tableau to create an understanding for attributes of a Diseased vs a Healthy person.
+
+Demonstrating the variables associated with each other and factors to build a dashboard
+
